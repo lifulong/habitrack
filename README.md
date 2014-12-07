@@ -15,7 +15,7 @@ habitrack是一个习惯跟踪系统，用于习惯的培养和跟踪；
 ###安装指南
 
 >
->	参考工程[INSTALL](https://github.com/lifulong/habitrack/INSTALL)文件
+>	参考工程[INSTALL](https://github.com/lifulong/habitrack/blob/master/INSTALL)文件
 >
 
 
