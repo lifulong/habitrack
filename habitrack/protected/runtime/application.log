@@ -1,0 +1,10 @@
+2014/12/07 16:10:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "home".' in /home/peter/OpenSource/yii-1.0/framework/web/CController.php:483
+Stack trace:
+#0 /home/peter/OpenSource/yii-1.0/framework/web/CController.php(270): CController->missingAction('home')
+#1 /home/peter/OpenSource/yii-1.0/framework/web/CWebApplication.php(282): CController->run('home')
+#2 /home/peter/OpenSource/yii-1.0/framework/web/CWebApplication.php(141): CWebApplication->runController('site/home')
+#3 /home/peter/OpenSource/yii-1.0/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /home/peter/peter-proj/habitrack/habitrack/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/
+---

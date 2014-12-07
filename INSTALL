@@ -1,0 +1,11 @@
+
+依赖：
+
+PHP5
+php-mem php-redis php-mysql php-mongo扩展
+Php-fpm
+Nginx
+Mysql
+Mongo
+Memcache
+Redis
