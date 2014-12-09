@@ -23,7 +23,7 @@ habitrack是一个习惯跟踪系统，用于习惯的培养和跟踪；
 
 1.**李福龙**
 
-*	**[lifulong](http://github.com/lifulong)**
-*	**[Email](mailto:msl.fulong@gmail.com)**
-*	**[MainPage](lifulong.me)**
+*	**GitHub:[lifulong's Github](http://github.com/lifulong)**
+*	**Email:[msl.fulong@gmail.com](mailto:msl.fulong@gmail.com)**
+*	**MainPage:[lifulong.me](lifulong.me)**
 

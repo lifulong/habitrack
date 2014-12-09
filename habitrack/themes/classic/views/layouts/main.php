@@ -15,6 +15,11 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css">
 
+	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/bootstrap/dist/css/bootstrap.css">
+	<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery-2.1.1.js"></script>
+	<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery-ui.js"></script>
+	<script src="<?php echo Yii::app()->request->baseUrl; ?>/bootstrap/dist/js/bootstrap.js"></script>
+
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/view_habitrack.css">
 
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
