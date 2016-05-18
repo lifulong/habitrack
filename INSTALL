@@ -26,25 +26,17 @@
 >	sudo apt-get install mysql
 >	sudo apt-get install mysql-dev
 
-6.Mongo
-
->	sudo apt-get install mongo
-
-7.Memcache
-
->	sudo apt-get install memcache
-
-8.Redis
+6.Redis
 
 >	sudo apt-get install redis-server
 
-9.Yii
+7.Yii
 
 	下载[Yii](https://github.com/yiisoft/yii)框架源码，解压缩,当前工程目录下建立到YII框架的软链接
 
 >	git clone https://github.com/yiisoft/yii.git
 
-10.bootstrap
+8.bootstrap
 
 >	下载[bootstrap](http://v3.bootcss.com/)源码，在当前工程根目录下建立软连接
 
